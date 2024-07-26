@@ -175,7 +175,7 @@ class Menu {
         }
     }
 }
-
+// Comment added. 
 // Initialization of a new menu and start it
 // This line creates a new instance of the Menu class and assigns it to the variable menu.
 // Make sure the Menu class is defined somewhere in your code.
